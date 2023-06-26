@@ -21,7 +21,7 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 
 10:55-11:15	 Cyber positions deep dive: Intelligence by Jasmine Sukary Navarro
 
-11:15-11:35	 Cyber positions deep dive: GRC by Shelly Braunstein
+11:15-11:35	 Cyber positions deep dive: GRC by Shelly Brownshtein
 
 11:35-11:40	 Break	
 
@@ -39,9 +39,9 @@ Join us in this exciting initiative, and let's navigate the cybersecurity landsc
 
 14:30-14:35	 Break
 
-14:35-15:05	 The power of networking by Alon Shahak
+14:35-15:05	 Managing your job search by Adi Kuperly
 
-15:05-15:35	 Managing your job search by Adi Kuperly
+15:05-15:35	 The power of networking by Alon Shahak
 
 15:35-15:40	 Break
 
@@ -65,7 +65,7 @@ Tomer Drori provides a deep dive into the critical cybersecurity role of Attack,
 ### Break
 
 ### Cyber positions deep dive - GRC
-**Shelly Braunstein**
+**Shelly Brownshtein**
 
 Shelly Braunstein explores the world of Governance, Risk, and Compliance (GRC) in cybersecurity, offering insights into the roles and responsibilities involved in maintaining organizational compliance and managing risk.
 
@@ -102,15 +102,15 @@ Nataly Trister discusses how to optimize your LinkedIn profile and networking st
 
 ### Break
 
-### The power of networking
-**Alon Shahak**
-
-Alon Shahak underscores the importance of networking in the cybersecurity field, discussing how to build and maintain professional relationships, attend networking events, and leverage those connections to boost your career.
-
 ### Managing your job search
 **Adi Kuperly**
 
 Discover effective strategies for managing your job search in the cybersecurity field, including how to target suitable roles, understand job descriptions, navigate application processes, and follow-up effectively with potential employers.
+
+### The power of networking
+**Alon Shahak**
+
+Alon Shahak underscores the importance of networking in the cybersecurity field, discussing how to build and maintain professional relationships, attend networking events, and leverage those connections to boost your career.
 
 ### Break
 
